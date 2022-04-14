@@ -12,3 +12,9 @@
 - CREATE [UNIQUE] INDEX <index_name> ON <table name> (<column(s)>);
 - ex) CREATE INDEX idx_name ON student(name)  : student 테이블의 name 속성에 idx_name 이름으로 인덱스로 생성하는 명령어
   
+# SOAP
+- XML과 HTTP 통신을 기반으로 하여 네트워크 상에 존재하는 각종 컴포넌트 간 호출을 효율적으로 실현하기 위한 방법을 제시하는 규약
+- 네트워크상에서 Client와 Service 간에 메시지를 요청하고 이에 응답해주는 방법을 제공합니다
+  
+# SOAP 의 특징
+- 표준 공개성, 유연성, 확장성, 분산 컴퓨팅, 독립성, 저용랑 미들웨어
