@@ -1,3 +1,17 @@
+<span class="bg-yellow"> 노란형광펜 </span>
+<span class="bg-red"> 빨강형광펜 </span>
+<span class="bg-green"> 보라형광펜 </span>
+<span class="bg-blue"> 파랑형광펜 </span>
+<span class="bg-yellow"> 노란형광펜 </span>
+<span class="bg-gray"> 회색형광펜 </span>
+<span class="bg-green"> 초록형광펜 </span>
+
+
+
+
+
+
+
 # XML (eXtensible Markup Language)
 - 데이터를 나타낼 수 있는 방식 중 대표적인 것이 XML과 JSON 입니다.
 - XML 은 W3C에서 개발된, 다른 특수한 목적을 갖는 마크업 언어를 만드는데 사용하도록 권창하는 다목적 마크업 언어입니다.
@@ -37,3 +51,4 @@
   - 웹 사이트 간 스크립팅 : 취약성이 있는 웹 사이트를 방문한 사용자의 브라우저에서 부정한 HTML 태그나 JavaScript를 동작시키는 공격 기법
   - HTTP 헤더 인젝션 : 공격자가 응답 헤더의 필드에 개행 문자 등을 삽입함으로써 임의의 응답 헤더 필드나 바다에 내용을 추가하는 수동적 공격 기법
   - HTTP 응답 분할 : 공격자가 HTTP 요청에 삽입한 인자 값이 HTTP 응답헤더에 포함되어 사용자에게 다시 전달될 때 개행 문자를 이용하여 첫 번째 응답을 종료시키고 두 번째 응답에 악의적인 코드를 주입하는 공격 기법
+
