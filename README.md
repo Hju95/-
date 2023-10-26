@@ -1,13 +1,15 @@
-<span class="bg-yellow"> 노란형광펜 </span>
-<span class="bg-red"> 빨강형광펜 </span>
-<span class="bg-green"> 보라형광펜 </span>
-<span class="bg-blue"> 파랑형광펜 </span>
-<span class="bg-yellow"> 노란형광펜 </span>
-<span class="bg-gray"> 회색형광펜 </span>
-<span class="bg-green"> 초록형광펜 </span>
+
+${\color{red}Red}$
 
 
+[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+[![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
+[![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
+[![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
+[![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
 
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
 
 
 
